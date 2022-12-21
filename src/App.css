@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Roboto;
+  src: url("/asset/fonts/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: Arabic;
+  src: url("/asset/fonts/Cairo-VariableFont_slnt\,wght.ttf");
+}
+
+* {
+  font-family: "Arabic";
+  font-weight: 500;
+}
